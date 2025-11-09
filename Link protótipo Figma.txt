@@ -1,5 +1,1 @@
-O protótipo desenvolvido na plataforma Figma pode ser acessado pelo link abaixo: 
 
-https://www.figma.com/proto/NMveD2c0gdckYWAZosQR33/Prototipo-UniSenaiPR?node-id=0-1&t=kzXzJDTHRW5ztsql-1
-
-Na mesma pasta deste arquivo de texto se encontra uma cópia local do protótipo. 
